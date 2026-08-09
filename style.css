@@ -1,0 +1,171 @@
+h1{
+    color: blue;
+    text-align: center; 
+}
+h2{
+    text-align: center;
+}
+.image1{
+    width: 260px;
+}
+
+.header{
+    max-width: auto;
+    text-align: center;
+    background-image: url(header.png);
+    background-repeat: no-repeat;
+    background-position: 100px;
+    margin: auto;
+    padding: 20px;
+    background-size: cover;   
+    background-position: center; 
+}
+.div1{
+    text-align: center
+    max-width: auto;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(255, 182, 193);
+}
+.div2{
+    max-width: 1400px;
+    margin: auto;
+    padding: 20px;
+}
+.hh2{
+    text-align:left;
+}
+h3{
+    background-image: url(header.png);
+    background-repeat: no-repeat;
+    background-size: cover;   
+    background-position: center; 
+    text-align:center;
+}
+.image img{ 
+    width: 300px;
+    padding: 5px;
+}
+.image{
+    max-width: 200;
+}
+.blue {
+    background-color: aqua;
+    width: auto;
+    padding: 20px;
+    overflow: auto;
+}
+
+.pic1 {
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+.blue {
+    font-size: 35px;
+    text-align: center;
+}
+.teacher{
+    background-color: rgb(243, 117, 165);
+    max-width: auto;
+    padding: 20px;
+    overflow: auto;
+}
+.teacher img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+.teacher {
+    font-size: 35px;
+    text-align: center;
+}
+.videos video{
+    width: 400px;
+    margin-right: 20px;
+    padding: 20px;
+    float: left;
+}
+.song1{
+    background-color: rgb(182, 112, 243);
+    max-width: auto;
+    padding: 20px;
+    overflow: auto;
+}
+.song1{
+    font-size: 35px;
+    text-align: center;
+}
+.leav1{
+    background-color: rgb(243, 223, 112);
+    max-width: auto;
+    padding: 20px;
+    overflow: auto;
+}
+.leav1{
+    font-size: 35px;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    min-height: 100vh; 
+    background-color: rgb(243, 117, 165);
+    padding: 20px;
+    overflow: auto;
+    background-size: cover;
+    background-position: center;
+
+    font-size: 35px;
+    text-align: center;
+}
+
+.footer img{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    float: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    overflow-x: hidden;
+}
+.link a{
+    color:rgb(34, 8, 228);
+    text-decoration: none;
+    background-color:rgb(211, 44, 240)
+}
+.link{
+    text-align:center;
+}
+a:hover{
+    color:white;
+    background-color:black;
+}
+a:active{
+    color:rgb(222, 248, 56);
+}
+.song1 .song video{
+    width: 400px;
+    margin-right: 20px;
+    padding: 20px;
+    float: left;
+}
+
